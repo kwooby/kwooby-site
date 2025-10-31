@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /*WIP & Coming-Soon page code*/
 
 .wip-body {
@@ -104,12 +103,4 @@ h2 {
 	width: 300px;
 	object-fit: cover;
 	display: block;
-=======
-body {
-	font-family: Arial, sans-serif;
-	background-color: #fafafa;
-	color: #323;
-	text-align: center;
-	padding-top: 50px;
->>>>>>> 4109d320c3a11c31df18d916a74507e4154f9324
 }
