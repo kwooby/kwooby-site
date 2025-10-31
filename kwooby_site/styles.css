@@ -1,0 +1,115 @@
+<<<<<<< HEAD
+/*WIP & Coming-Soon page code*/
+
+.wip-body {
+	background-image: url("images/warlock.png");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 100%;
+	max-height: none;
+	width: 100%;
+	max-width: none;
+	margin: 0;
+	padding: 0;
+}
+.wip-header {
+	background: linear-gradient(to bottom, #2e3c55, rgba(0,0,0,0));
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	top: 0;
+	position: fixed;
+}
+.wip-h1 {
+	color: #faf7dd;
+	font-size:36px;
+	text-align: right;
+	padding: 50px 100px 50px 0;
+}
+.wip-section {
+	background: linear-gradient(to top, #2e3c55, rgba(0,0,0,0));
+	height: 100vh;
+	margin: 0;
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: column;
+}
+.wip-h2 {
+	color: #faf7dd;
+	text-align: left;
+	padding-left: 10%;
+	padding-top: 61%;
+	margin: 0;
+}
+.wip-p {
+	color: #faf7dd;
+	text-align: center;
+	margin: 0;
+}
+.wip-keyword {
+	font-weight: bold;
+	color: #eec281;
+	text-decoration: underline;
+}
+
+/*Actual website pages begin*/
+
+body {
+	font-family: Arial, sans-serif;
+	background-color: #2e3c55;
+	margin: 0;
+	padding: 0;
+}
+nav {
+	font-family: 'Times New Roman', Times, serif;
+	color: #323;
+	display: flex;
+	justify-content: space-evenly;
+	padding: 50px;
+}
+a {
+	color: #b99c4d;
+	text-decoration: none;
+	font-size: 16px;
+}
+a:hover {
+	color: #e4c894;
+}
+a:visited {
+	color: #9b8db9;
+}
+p {
+	color: #323;
+	text-align: left;
+	padding-top: 50px;
+	font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 30px;
+	color: #333;
+	text-align: right;
+	padding-top: 50px;
+	padding-right: 100px;
+}
+h2 {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 24px;
+	color: #333;
+}
+.contact-img {
+	text-align: center;
+	height: 300px;
+	width: 300px;
+	object-fit: cover;
+	display: block;
+=======
+body {
+	font-family: Arial, sans-serif;
+	background-color: #fafafa;
+	color: #323;
+	text-align: center;
+	padding-top: 50px;
+>>>>>>> 4109d320c3a11c31df18d916a74507e4154f9324
+}
