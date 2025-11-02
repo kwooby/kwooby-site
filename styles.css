@@ -74,6 +74,7 @@ a {
 }
 a:hover {
 	color: #e4c894;
+	text-decoration: underline;
 }
 a:visited {
 	color: #9b8db9;
@@ -104,3 +105,4 @@ h2 {
 	object-fit: cover;
 	display: block;
 }
+
